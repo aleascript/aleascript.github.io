@@ -6,7 +6,9 @@ hide_table_of_contents: true
 description: Tabletop role-playing game design projects and experiments by AleaScript.
 ---
 
-![](/img/site/aleascript-black-on-white-300.png)
+import ThemeLogo from '@site/src/components/ThemeLogo';
+
+<ThemeLogo />
 
 # AleaScript
 
