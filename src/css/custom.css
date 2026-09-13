@@ -55,6 +55,30 @@ body {
   letter-spacing: -0.02em;
 }
 
+.theme-logo {
+  display: block;
+  width: min(100%, 34rem);
+  margin: 0 auto 2rem;
+}
+
+.theme-logo__image {
+  display: block;
+  width: 30%;
+  height: auto;
+}
+
+.theme-logo__image--dark {
+  display: none;
+}
+
+html[data-theme='dark'] .theme-logo__image--light {
+  display: none;
+}
+
+html[data-theme='dark'] .theme-logo__image--dark {
+  display: block;
+}
+
 .theme-doc-markdown {
   max-width: var(--site-content-width);
 }

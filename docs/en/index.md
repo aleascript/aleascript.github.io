@@ -1,28 +1,57 @@
 ---
 id: home
-title: The World
+title: AleaScript
 slug: /
-sidebar_position: 1
 hide_table_of_contents: true
-description: Every game begins with a world waiting to answer.
+description: Tabletop role-playing game design projects and experiments by AleaScript.
 ---
 
-# A world begins with a question
+import ThemeLogo from '@site/src/components/ThemeLogo';
 
-Beyond the last familiar road lies a place that has never existed before. Its
-people remember old promises. Its ruins keep patient secrets. Something has
-changed, and the characters are the ones who cannot simply look away.
+<ThemeLogo />
 
-Tonight, the table gives this world a voice.
+# AleaScript
 
-You will describe what your characters notice, what they desire, and what they
-are prepared to risk. Their choices will reveal paths no one could have mapped
-in advance. The world will answer in return—sometimes with wonder, sometimes
-with danger, always with consequences.
+**Experimental tabletop role-playing game design.**
 
-## The promise of play
+AleaScript gathers projects that explore how rules, fiction, character perspectives and imagined worlds shape one another at the table. Some are frameworks, others playable implementations or deliberately bounded experiments.
 
-Come with questions rather than solutions. Listen for the details that matter.
-Let every character change what becomes possible.
+## Projects
 
-No one knows the whole story yet. That is why we play.
+### [Resonance](https://aleascript.github.io/resonance/)
+
+**An experimental game design paradigm for tabletop role-playing games.**
+
+A laboratory for exploring how systems, players, fiction and worlds shape one another.
+
+### [Regard](https://aleascript.github.io/regard/)
+
+**A TTRPG framework with a fully playable standard configuration.**
+
+Fiction determines what matters and can shape how uncertainty is resolved.
+
+### [Glorantha Perspectives](https://aleascript.github.io/glorantha-perspectives/)
+
+**A role-playing game for exploring Glorantha through the perspectives, beliefs and choices of its inhabitants.**
+
+A concrete application of Regard to a world where what is perceived and meaningful depends on who is looking.
+
+### [Unmind](https://aleascript.github.io/unmind/)
+
+**A short, closed and demanding Resonance role-playing game.**
+
+A deliberately bounded experiment about loss, revelation and a mind coming apart.
+
+## How they relate
+
+**Resonance → Regard → Glorantha Perspectives**
+
+Resonance explores the design paradigm. Regard turns that research into a playable framework. Glorantha Perspectives applies Regard to Glorantha.
+
+**Resonance → Unmind**
+
+Unmind explores a different, deliberately bounded path directly from Resonance.
+
+## Source
+
+The projects and this portal are developed publicly on [GitHub](https://github.com/aleascript).
