@@ -83,9 +83,9 @@ export const site = {
   },
   identity: {
     logo: 'img/site/aleascript-black-on-white-300.png',
-    logoDark: 'img/site/aleascript-white-on-black-300.png',
+    logoDark: 'img/site/aleascript-white-on-site-black-300.png',
     pageLogo: 'img/site/aleascript-black-on-white.png',
-    pageLogoDark: 'img/site/aleascript-white-on-black.png',
+    pageLogoDark: 'img/site/aleascript-white-on-site-black.png',
     favicon: 'img/site/aleascript-black-on-white-300.png',
   } satisfies SiteIdentity,
   license: {
