@@ -6,6 +6,8 @@ hide_table_of_contents: true
 description: Projets et expérimentations de game design pour jeux de rôle sur table par AleaScript.
 ---
 
+![](/img/site/aleascript-black-on-white-300.png)
+
 # AleaScript
 
 **Expérimentations de game design pour jeux de rôle sur table.**

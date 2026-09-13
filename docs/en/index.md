@@ -6,6 +6,8 @@ hide_table_of_contents: true
 description: Tabletop role-playing game design projects and experiments by AleaScript.
 ---
 
+![](/img/site/aleascript-black-on-white-300.png)
+
 # AleaScript
 
 **Experimental tabletop role-playing game design.**

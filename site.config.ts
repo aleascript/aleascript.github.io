@@ -24,6 +24,7 @@ export type ContentLicense = {
     title: string;
     author: string;
     href: string | null;
+    mailto: string | null;
   };
 };
 
@@ -78,8 +79,8 @@ export const site = {
     defaultFullName: 'aleascript/aleascript.github.io',
   },
   identity: {
-    logo: null,
-    favicon: null,
+    logo: 'img/site/aleascript-black-on-white-300.png',
+    favicon: 'img/site/aleascript-black-on-white-300.png',
   } satisfies SiteIdentity,
   license: {
     label: 'CC BY 4.0',
@@ -88,6 +89,7 @@ export const site = {
       title: 'AleaScript',
       author: 'AleaScript',
       href: 'https://aleascript.github.io/',
+      mailto: 'aleascript@proton.me',
     },
   } satisfies ContentLicense,
   lineage: {
