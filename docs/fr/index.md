@@ -1,29 +1,53 @@
 ---
 id: home
-title: Le Monde
+title: AleaScript
 slug: /
-sidebar_position: 1
 hide_table_of_contents: true
-description: Chaque jeu commence par un monde qui attend de répondre.
+description: Projets et expérimentations de game design pour jeux de rôle sur table par AleaScript.
 ---
 
-# Un monde commence par une question
+# AleaScript
 
-Au-delà de la dernière route familière s'étend un lieu qui n'a encore jamais
-existé. Ses habitants se souviennent d'anciennes promesses. Ses ruines gardent
-patiemment leurs secrets. Quelque chose a changé, et les personnages sont ceux
-qui ne peuvent simplement détourner le regard.
+**Expérimentations de game design pour jeux de rôle sur table.**
 
-Ce soir, la table donne une voix à ce monde.
+AleaScript rassemble des projets qui explorent la manière dont les règles, la fiction, les perspectives des personnages et les mondes imaginaires se façonnent mutuellement à la table. Certains sont des frameworks, d’autres des mises en œuvre jouables ou des expérimentations volontairement délimitées.
 
-Vous direz ce que vos personnages remarquent, ce qu'ils désirent et ce qu'ils
-sont prêts à risquer. Leurs choix révéleront des chemins que personne n'aurait
-pu tracer à l'avance. En retour, le monde répondra — parfois par l'émerveillement,
-parfois par le danger, toujours par des conséquences.
+## Projets
 
-## La promesse du jeu
+### [Resonance](https://aleascript.github.io/resonance/)
 
-Venez avec des questions plutôt qu'avec des solutions. Écoutez les détails qui
-comptent. Laissez chaque personnage transformer ce qui devient possible.
+**Un paradigme expérimental de game design pour le jeu de rôle sur table.**
 
-Personne ne connaît encore toute l'histoire. C'est pour cela que nous jouons.
+Un laboratoire pour explorer comment systèmes, joueurs, fiction et mondes se façonnent mutuellement.
+
+### [Regard](https://aleascript.github.io/regard/)
+
+**Un framework de JdR avec une configuration standard immédiatement jouable.**
+
+La fiction détermine ce qui compte et peut façonner la manière dont l’incertitude est résolue.
+
+### [Glorantha Perspectives](https://aleascript.github.io/glorantha-perspectives/)
+
+**Un jeu de rôle pour explorer Glorantha à travers les perspectives, croyances et choix de ses habitants.**
+
+Une mise en œuvre concrète de Regard dans un monde où ce qui est perçu et significatif dépend de celui qui regarde.
+
+### [Unmind](https://aleascript.github.io/unmind/)
+
+**Un jeu de rôle Resonance court, fermé et exigeant.**
+
+Une expérimentation volontairement délimitée autour de la perte, de la révélation et d’un esprit qui se défait.
+
+## Comment ils se relient
+
+**Resonance → Regard → Glorantha Perspectives**
+
+Resonance explore le paradigme de design. Regard transforme cette recherche en framework jouable. Glorantha Perspectives applique Regard à Glorantha.
+
+**Resonance → Unmind**
+
+Unmind explore une autre voie, volontairement délimitée, directement à partir de Resonance.
+
+## Sources
+
+Les projets et ce portail sont développés publiquement sur [GitHub](https://github.com/aleascript).
