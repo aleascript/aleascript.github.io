@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aleascript.github.io/sitemap.xml
+Sitemap: https://aleascript.github.io/resonance/sitemap.xml
+Sitemap: https://aleascript.github.io/regard/sitemap.xml
+Sitemap: https://aleascript.github.io/unmind/sitemap.xml
+Sitemap: https://aleascript.github.io/glorantha-perspectives/sitemap.xml
