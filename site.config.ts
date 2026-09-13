@@ -1,6 +1,5 @@
 /**
- * Project-specific values live here so repositories created from this template
- * have one obvious place to start customizing.
+ * AleaScript portal identity.
  */
 
 export type SiteIdentity = {
@@ -59,9 +58,10 @@ export type SiteTheme = {
 };
 
 export const site = {
-  title: 'Resonance Site',
-  tagline: 'A world begins with a question',
-  description: 'Enter a world shaped by every choice made at the table.',
+  title: 'AleaScript',
+  tagline: 'Experimental tabletop role-playing game design',
+  description:
+    'AleaScript gathers tabletop role-playing game design projects exploring fiction, perspective, uncertainty and imagined worlds.',
   author: 'AleaScript',
   defaultLocale: 'en',
   locales: {
@@ -75,19 +75,19 @@ export const site = {
     },
   },
   repository: {
-    defaultFullName: 'aleascript/resonance-site-template',
+    defaultFullName: 'aleascript/aleascript.github.io',
   },
   identity: {
-    logo: 'img/site/resonance_simple_200x200.png',
-    favicon: 'img/site/resonance_simple_200x200.png',
+    logo: null,
+    favicon: null,
   } satisfies SiteIdentity,
   license: {
     label: 'CC BY 4.0',
     href: 'https://creativecommons.org/licenses/by/4.0/',
     attribution: {
-      title: 'Resonance Site',
+      title: 'AleaScript',
       author: 'AleaScript',
-      href: null,
+      href: 'https://aleascript.github.io/',
     },
   } satisfies ContentLicense,
   lineage: {
