@@ -22,7 +22,14 @@ function projectLink(label: string, href: string): string {
 }
 
 function footerCredit(): string {
-  const credits = [`© ${new Date().getFullYear()} ${site.author}`];
+  const contact = site.license.attribution.mailto;
+  const authorCredit = contact
+    ? projectLink(
+        site.license.attribution.author,
+        contact.startsWith('mailto:') ? contact : `mailto:${contact}`,
+      )
+    : site.author;
+  const credits = [`© ${new Date().getFullYear()} ${authorCredit}`];
 
   if (site.license) {
     credits.push(
@@ -123,6 +130,7 @@ const config: Config = {
             logo: {
               alt: `${site.title} logo`,
               src: site.identity.logo,
+              srcDark: site.identity.logoDark ?? site.identity.logo,
             },
           }
         : {}),
