@@ -26,27 +26,9 @@ function footerCredit(): string {
 
   if (site.license) {
     credits.push(
-      `Game content licensed under ${projectLink(
+      `Content licensed under ${projectLink(
         site.license.label,
         site.license.href,
-      )}`,
-    );
-  }
-
-  if (site.lineage.designedWith) {
-    credits.push(
-      `designed with ${projectLink(
-        site.lineage.designedWith.label,
-        site.lineage.designedWith.href,
-      )}`,
-    );
-  }
-
-  if (site.lineage.poweredBy) {
-    credits.push(
-      `powered by ${projectLink(
-        site.lineage.poweredBy.label,
-        site.lineage.poweredBy.href,
       )}`,
     );
   }
@@ -96,8 +78,6 @@ const config: Config = {
 
   customFields: {
     visualTheme: site.theme,
-    // Docusaurus localizes siteConfig.baseUrl for non-default locales. Keep the
-    // actual deployment root available for shared, non-localized assets.
     deploymentBaseUrl: baseUrl,
   },
 
@@ -114,13 +94,16 @@ const config: Config = {
         docs: {
           path: `./docs/${contentLocale}`,
           routeBasePath: '/',
-          sidebarPath: './sidebars.ts',
+          sidebarPath: false,
           admonitions: {
             keywords: ['design'],
             extendDefaults: true,
           },
         },
         blog: false,
+        sitemap: {
+          filename: 'sitemap.xml',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -135,26 +118,7 @@ const config: Config = {
     },
     navbar: {
       title: site.title,
-      ...(site.identity.logo
-        ? {
-            logo: {
-              alt: `${site.title} logo`,
-              src: site.identity.logo,
-            },
-          }
-        : {}),
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'docsSidebar',
-          position: 'left',
-          label: 'Contents',
-        },
-        {
-          to: '/publications/',
-          label: 'Publications',
-          position: 'left',
-        },
         {
           type: 'localeDropdown',
           position: 'right',
