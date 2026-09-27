@@ -36,7 +36,7 @@ Fiction determines what matters and can shape how uncertainty is resolved.
 
 A concrete application of Regard to a world where what is perceived and meaningful depends on who is looking.
 
-### [Truchements](https://aleascript.github.io/truchements/)
+### [Metaxy](https://aleascript.github.io/metaxy/)
 
 **A role-playing game about Powers and the Agents through whom they become present.**
 
@@ -54,12 +54,12 @@ A deliberately bounded experiment about loss, revelation and a mind coming apart
 
 Resonance explores the design paradigm. Regard turns that research into a playable framework. Glorantha Perspectives applies Regard to Glorantha and explores **elsewhere**: seeing from within a world and perspectives that are not our own.
 
-**Resonance → Truchements**
+**Resonance → Metaxy**
 
-Truchements explores **otherwise**: what an Agent may become through contact with the world and with what transcends them.
+Metaxy explores **otherwise**: what an Agent may become through contact with the world and with what transcends them.
 
 > **Glorantha Perspectives: seeing from elsewhere.**  
-> **Truchements: becoming otherwise.**
+> **Metaxy: becoming otherwise.**
 
 **Resonance → Unmind**
 
