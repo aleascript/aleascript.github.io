@@ -36,6 +36,12 @@ Fiction determines what matters and can shape how uncertainty is resolved.
 
 A concrete application of Regard to a world where what is perceived and meaningful depends on who is looking.
 
+### [Truchements](https://aleascript.github.io/truchements/)
+
+**A role-playing game about Powers and the Agents through whom they become present.**
+
+An exploration of **otherwise**: what Agents become through contact with the world, between what their Power determines and what may emerge beyond it.
+
 ### [Unmind](https://aleascript.github.io/unmind/)
 
 **A short, closed and demanding Resonance role-playing game.**
@@ -46,7 +52,14 @@ A deliberately bounded experiment about loss, revelation and a mind coming apart
 
 **Resonance → Regard → Glorantha Perspectives**
 
-Resonance explores the design paradigm. Regard turns that research into a playable framework. Glorantha Perspectives applies Regard to Glorantha.
+Resonance explores the design paradigm. Regard turns that research into a playable framework. Glorantha Perspectives applies Regard to Glorantha and explores **elsewhere**: seeing from within a world and perspectives that are not our own.
+
+**Resonance → Truchements**
+
+Truchements explores **otherwise**: what an Agent may become through contact with the world and with what transcends them.
+
+> **Glorantha Perspectives: seeing from elsewhere.**  
+> **Truchements: becoming otherwise.**
 
 **Resonance → Unmind**
 
