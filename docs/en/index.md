@@ -14,9 +14,31 @@ import ThemeLogo from '@site/src/components/ThemeLogo';
 
 **Experimental tabletop role-playing game design.**
 
-AleaScript gathers projects that explore how rules, fiction, character perspectives and imagined worlds shape one another at the table. Some are frameworks, others playable implementations or deliberately bounded experiments.
+AleaScript gathers projects that explore how rules, fiction, character perspectives and imagined worlds shape one another at the table. You will find games, some of them deliberately bounded experiments, along with the design frameworks they are built on.
 
-## Projects
+## Games
+
+### [Glorantha Perspectives](https://aleascript.github.io/glorantha-perspectives/)
+
+**A role-playing game for exploring Glorantha through the perspectives, beliefs and choices of its inhabitants.**
+
+A concrete application of Regard to a world where what is perceived and meaningful depends on who is looking.
+
+### [Between & Beyond](https://aleascript.github.io/between-and-beyond/)
+
+**A role-playing game about what exceeds us, and those who stand between.**
+
+Play the Agents through whom a Power — Death, the Divine, Dreams, the Unknown… — becomes present in the world, and explore **otherwise**: what they become through that contact.
+
+### [Unmind](https://aleascript.github.io/unmind/)
+
+**A short, closed and demanding Resonance role-playing game.**
+
+A deliberately bounded experiment about loss, revelation and a mind coming apart.
+
+## Frameworks and design research
+
+The foundations these games are built on, for those interested in game design. These are works in progress.
 
 ### [Resonance](https://aleascript.github.io/resonance/)
 
@@ -30,36 +52,17 @@ A laboratory for exploring how systems, players, fiction and worlds shape one an
 
 Fiction determines what matters and can shape how uncertainty is resolved.
 
-### [Glorantha Perspectives](https://aleascript.github.io/glorantha-perspectives/)
+## Lineage
 
-**A role-playing game for exploring Glorantha through the perspectives, beliefs and choices of its inhabitants.**
+**Resonance → Regard → Glorantha Perspectives, Between & Beyond**
 
-A concrete application of Regard to a world where what is perceived and meaningful depends on who is looking.
+Resonance explores the design paradigm. Regard turns that research into a playable framework. Two games build on it:
 
-### [Metaxy](https://aleascript.github.io/metaxy/)
-
-**A role-playing game about Powers and the Agents through whom they become present.**
-
-An exploration of **otherwise**: what Agents become through contact with the world, between what their Power determines and what may emerge beyond it.
-
-### [Unmind](https://aleascript.github.io/unmind/)
-
-**A short, closed and demanding Resonance role-playing game.**
-
-A deliberately bounded experiment about loss, revelation and a mind coming apart.
-
-## How they relate
-
-**Resonance → Regard → Glorantha Perspectives**
-
-Resonance explores the design paradigm. Regard turns that research into a playable framework. Glorantha Perspectives applies Regard to Glorantha and explores **elsewhere**: seeing from within a world and perspectives that are not our own.
-
-**Resonance → Metaxy**
-
-Metaxy explores **otherwise**: what an Agent may become through contact with the world and with what transcends them.
+- Glorantha Perspectives explores **elsewhere**: seeing from within a world and perspectives that are not our own.
+- Between & Beyond explores **otherwise**: what an Agent may become through contact with the world and with what transcends them.
 
 > **Glorantha Perspectives: seeing from elsewhere.**  
-> **Metaxy: becoming otherwise.**
+> **Between & Beyond: becoming otherwise.**
 
 **Resonance → Unmind**
 
