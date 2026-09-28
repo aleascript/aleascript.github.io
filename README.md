@@ -4,10 +4,11 @@ Source repository for [aleascript.github.io](https://aleascript.github.io/), the
 
 ## Public projects
 
+- [Glorantha Perspectives](https://aleascript.github.io/glorantha-perspectives/) — a Glorantha role-playing game designed with Regard.
+- [Between & Beyond](https://aleascript.github.io/between-and-beyond/) — a role-playing game about what exceeds us, designed with Resonance and powered by Regard.
+- [Unmind](https://aleascript.github.io/unmind/) — a short, bounded role-playing game experiment designed with Resonance.
 - [Resonance](https://aleascript.github.io/resonance/) — an experimental game design paradigm for tabletop role-playing games.
 - [Regard](https://aleascript.github.io/regard/) — a playable TTRPG framework designed with Resonance.
-- [Glorantha Perspectives](https://aleascript.github.io/glorantha-perspectives/) — a Glorantha role-playing game designed with Regard.
-- [Unmind](https://aleascript.github.io/unmind/) — a short, bounded role-playing game experiment designed with Resonance.
 
 The portal is bilingual (English/French) and built with Docusaurus on GitHub Pages.
 
