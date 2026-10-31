@@ -158,3 +158,24 @@ html[data-theme='dark'] .theme-logo__image--dark {
     black
   );
 }
+
+.support-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 600;
+}
+
+.support-link__icon {
+  width: 1.4rem;
+  height: auto;
+  flex: none;
+}
+
+.support-link__ink {
+  fill: #0d0c22;
+}
+
+[data-theme='dark'] .support-link__ink {
+  fill: #fff;
+}

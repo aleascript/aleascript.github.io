@@ -7,6 +7,7 @@ description: Tabletop role-playing game design projects and experiments by AleaS
 ---
 
 import ThemeLogo from '@site/src/components/ThemeLogo';
+import SupportLink from '@site/src/components/SupportLink';
 
 <ThemeLogo />
 
@@ -71,3 +72,9 @@ Unmind explores a different, deliberately bounded path directly from Resonance.
 ## Source
 
 The projects and this portal are developed publicly on [GitHub](https://github.com/aleascript).
+
+## Support my work
+
+Everything here is published freely under CC BY 4.0. If these projects speak to you, you can support their development through Buy Me a Coffee.
+
+<SupportLink href="https://buymeacoffee.com/aleascript">Support my work on Buy Me a Coffee</SupportLink>

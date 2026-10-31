@@ -7,6 +7,7 @@ description: Projets et expérimentations de game design pour jeux de rôle sur 
 ---
 
 import ThemeLogo from '@site/src/components/ThemeLogo';
+import SupportLink from '@site/src/components/SupportLink';
 
 <ThemeLogo />
 
@@ -71,3 +72,9 @@ Unmind explore une autre voie, volontairement délimitée, directement à partir
 ## Sources
 
 Les projets et ce portail sont développés publiquement sur [GitHub](https://github.com/aleascript).
+
+## Soutenir mon travail
+
+Tout est publié librement sous CC BY 4.0. Si ces projets vous parlent, vous pouvez soutenir leur développement via Buy Me a Coffee.
+
+<SupportLink href="https://buymeacoffee.com/aleascript">Soutenir mon travail sur Buy Me a Coffee</SupportLink>
